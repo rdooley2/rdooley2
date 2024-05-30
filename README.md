@@ -6,16 +6,16 @@
   - [Mapping RDP Attacks](https://github.com/rdooley2/SIEM-Lab/blob/main/README.md)
  
 - <b>Active Directory:</b>
-  - [AD Setup and Management](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [AD Setup and Management](https://github.com/rdooley2/AD-Lab/blob/main/README.md)
  
 - <b>Vulnerability Assessments:</b>
-  - [Running Scans with OpenVAS](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Running Scans with OpenVAS](https://github.com/rdooley2/Vulnerability-Lab/blob/main/README.md)
 
  
 <h2>👨🏻‍💻 Software Development Projects:</h2>
 
 - <b>Web-App Development:</b>
-  - [Mercy Church Website](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Mercy Church Website](https://github.com/rdooley2/Wep-App-Project/blob/main/README.md)
 
   
 <h2>📺 Project Video Overviews</h2>
@@ -30,5 +30,5 @@
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[youtube]: https://www.youtube.com/channel/UCZbbIiVBvRcpRMC3cnYsgAQ
+[youtube]: https://www.youtube.com/channel/UCvA8TGpgz0JO2IuerGv_vQw
 [linkedin]: https://www.linkedin.com/in/ryan-dooley-69bb13224/
