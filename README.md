@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>SIEM Content:</b>
-  - [Mapping RDP Attacks](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Mapping RDP Attacks](https://github.com/rdooley2/SIEM-Lab/blob/main/README.md)
  
 - <b>Active Directory:</b>
   - [AD Setup and Management](https://github.com/joshmadakor1/Algorithms-Practice)
