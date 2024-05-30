@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ryan! <br/>
+<h1>Hi, I'm Ryan! <br/> Aspiring Cybersecurity Analyst and UNC Charlotte Student<br/></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
