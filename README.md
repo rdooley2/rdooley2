@@ -16,7 +16,6 @@
 - [Mapping RDP Attacks](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [AD Setup and Management](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 - [Running Scans with OpenVAS)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Mercy Church Website)](https://www.youtube.com/watch?v=N-L9hklSlNk)
 
 <h2> 🌐 Connect with me:</h2>
 
