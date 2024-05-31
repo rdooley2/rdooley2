@@ -11,13 +11,6 @@
 - <b>Vulnerability Assessments:</b>
   - [Running Scans with OpenVAS](https://github.com/rdooley2/Vulnerability-Lab/blob/main/README.md)
 
- 
-<h2>👨🏻‍💻 Software Development Projects:</h2>
-
-- <b>Web-App Development:</b>
-  - [Mercy Church Website](https://github.com/rdooley2/Wep-App-Project/blob/main/README.md)
-
-  
 <h2>📺 Project Video Overviews</h2>
 
 - [Mapping RDP Attacks](https://www.youtube.com/watch?v=a83ASGn_V_s)
