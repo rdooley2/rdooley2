@@ -13,9 +13,9 @@
 
 <h2>📺 Project Video Overviews</h2>
 
-- [Mapping RDP Attacks](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [AD Setup and Management](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [Running Scans with OpenVAS](https://www.youtube.com/watch?v=N-L9hklSlNk)
+- [Mapping RDP Attacks](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+- [AD Setup and Management](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+- [Running Scans with OpenVAS](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 <h2> 🌐 Connect with me:</h2>
 
