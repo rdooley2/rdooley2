@@ -9,9 +9,9 @@
   - [AD Setup and Management](https://github.com/rdooley2/AD-Lab/blob/main/README.md)
  
 - <b>Vulnerability Assessments:</b>
-  - [Running Scans with OpenVAS](https://github.com/rdooley2/Vulnerability-Lab/blob/main/README.md)
+  - [Running Scans with Burp Suite](https://github.com/rdooley2/Vulnerability-Lab/blob/main/README.md)
 
-<h2>📺 Project Video Overviews</h2>
+<h2>📺 Project Video Overviews (Work in progress)</h2>
 
 - [Mapping RDP Attacks](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 - [AD Setup and Management](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
