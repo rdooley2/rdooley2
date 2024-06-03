@@ -8,10 +8,10 @@
 - <b>Active Directory:</b>
   - [AD Setup and Management](https://github.com/rdooley2/AD-Lab/blob/main/README.md)
  
-- <b>Vulnerability Assessments (Work in progress):</b>
+- <b>Vulnerability Assessments (Work in Progress):</b>
   - [Running Scans with Burp Suite](https://github.com/rdooley2/Vulnerability-Lab/blob/main/README.md)
 
-<h2>📺 Project Video Overviews (Work in progress)</h2>
+<h2>📺 Project Video Overviews (Work in Progress)</h2>
 
 - [Mapping RDP Attacks]()
 - [AD Setup and Management]()
