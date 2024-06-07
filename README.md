@@ -14,7 +14,7 @@
 <h2>📝 Cybersecurity Certifications:</h2>
 
 - <b>SOC Training:</b>
-  - [SOC Level 1]()
+  - [SOC Level 1](https://github.com/rdooley2/SOC-Level-1/blob/main/README.md)
  
 <h2>📺 Project Video Overviews (Work in Progress)</h2>
 
