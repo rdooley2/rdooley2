@@ -14,7 +14,7 @@
 <h2>📝 Cybersecurity Certifications:</h2>
 
 - <b>Introductory Concepts:</b>
-  - [Pre Security and Intro to Cybersecurity](https://github.com/rdooley2/PS-and-ITC/blob/main/README.md)
+  - [Pre Security and Intro to Cyber Security](https://github.com/rdooley2/PS-and-ITC/blob/main/README.md)
   
 - <b>SOC Training:</b>
   - [SOC Level 1](https://github.com/rdooley2/SOC-Level-1/blob/main/README.md)
