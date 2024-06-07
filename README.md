@@ -9,7 +9,7 @@
   - [AD Setup and Management](https://github.com/rdooley2/AD-Lab/blob/main/README.md)
  
 - <b>Vulnerability Assessments (Work in Progress):</b>
-  - [Running Scans with Burp Suite](https://github.com/rdooley2/Vulnerability-Lab/blob/main/README.md)
+  - [Running Scans with Qualys](https://github.com/rdooley2/Vulnerability-Lab/blob/main/README.md)
 
 <h2>📝 Cybersecurity Certifications:</h2>
 
@@ -23,7 +23,7 @@
 
 - [Mapping RDP Attacks]()
 - [AD Setup and Management]()
-- [Running Scans with Burp Suite]()
+- [Running Scans with Qualys]()
 
 <h2> 🌐 Connect with me:</h2>
 
