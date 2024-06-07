@@ -11,6 +11,11 @@
 - <b>Vulnerability Assessments (Work in Progress):</b>
   - [Running Scans with Burp Suite](https://github.com/rdooley2/Vulnerability-Lab/blob/main/README.md)
 
+<h2>📝 Cybersecurity Certifications:</h2>
+
+- <b>SOC Training:</b>
+  - [SOC Level 1]()
+ 
 <h2>📺 Project Video Overviews (Work in Progress)</h2>
 
 - [Mapping RDP Attacks]()
