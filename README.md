@@ -23,7 +23,7 @@
 
 - [Mapping RDP Attacks]()
 - [AD Setup and Management]()
-- [Running Scans with Qualys]()
+- [Running Scans with Qualys](https://youtu.be/djA4Jtptxqs)
 
 <h2> 🌐 Connect with me:</h2>
 
