@@ -18,6 +18,9 @@
   
 - <b>SOC Training:</b>
   - [SOC Level 1](https://github.com/rdooley2/SOC-Level-1/blob/main/README.md)
+
+- <b>Security Plus Certification (Coming Soon):</b>
+  - [Security+]()
  
 <h2>📺 Project Video Overviews</h2>
 
