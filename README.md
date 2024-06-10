@@ -22,7 +22,7 @@
 - <b>CompTIA Security+ (Coming Soon):</b>
   - [Security+]()
  
-<h2>📺 Project Video Overviews</h2>
+<h2>📺 Youtube Demonstrations:</h2>
 
 - [Mapping RDP Attacks](https://youtu.be/aEHL0QrV0SE)
 - [AD Setup and Management]()
