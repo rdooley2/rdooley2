@@ -2,7 +2,7 @@
 
 <h2>🔐 Cybersecurity Projects:</h2>
 
-- <b>SIEM Content:</b>
+- <b>SIEM Dashboard:</b>
   - [Mapping RDP Attacks](https://github.com/rdooley2/SIEM-Lab/blob/main/README.md)
  
 - <b>Active Directory:</b>
