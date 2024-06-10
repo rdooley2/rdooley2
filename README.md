@@ -8,7 +8,7 @@
 - <b>Active Directory:</b>
   - [AD Setup and Management](https://github.com/rdooley2/AD-Lab/blob/main/README.md)
  
-- <b>Vulnerability Assessments (Work in Progress):</b>
+- <b>Vulnerability Assessments:</b>
   - [Running Scans with Qualys](https://github.com/rdooley2/Vulnerability-Lab/blob/main/README.md)
 
 <h2>📝 Cybersecurity Certifications:</h2>
@@ -19,9 +19,9 @@
 - <b>SOC Training:</b>
   - [SOC Level 1](https://github.com/rdooley2/SOC-Level-1/blob/main/README.md)
  
-<h2>📺 Project Video Overviews (Work in Progress)</h2>
+<h2>📺 Project Video Overviews</h2>
 
-- [Mapping RDP Attacks]()
+- [Mapping RDP Attacks](https://youtu.be/aEHL0QrV0SE)
 - [AD Setup and Management]()
 - [Running Scans with Qualys](https://youtu.be/djA4Jtptxqs)
 
