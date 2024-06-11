@@ -8,7 +8,7 @@
 - <b>Active Directory:</b>
   - [AD Setup and Management](https://github.com/rdooley2/AD-Lab/blob/main/README.md)
  
-- <b>Vulnerability Assessments:</b>
+- <b>Vulnerability Management:</b>
   - [Running Scans with Qualys](https://github.com/rdooley2/Vulnerability-Lab/blob/main/README.md)
 
 - <b>Scripting (Coming Soon):</b>
