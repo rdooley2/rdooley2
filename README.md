@@ -2,7 +2,7 @@
 
 <h2>🔐 Cybersecurity Projects:</h2>
 
-- <b>SIEM Dashboard:</b>
+- <b>SIEM:</b>
   - [Mapping RDP Attacks](https://github.com/rdooley2/SIEM-Lab/blob/main/README.md)
  
 - <b>Active Directory:</b>
@@ -10,6 +10,9 @@
  
 - <b>Vulnerability Assessments:</b>
   - [Running Scans with Qualys](https://github.com/rdooley2/Vulnerability-Lab/blob/main/README.md)
+
+- <b>Scripting (Coming Soon):</b>
+  - [Creating a File Integrity Monitor](https://github.com/rdooley2/Scripting-Lab/blob/main/README.md)
 
 <h2>📝 Cybersecurity Certifications:</h2>
 
@@ -25,8 +28,9 @@
 <h2>📺 Youtube Demonstrations:</h2>
 
 - [Mapping RDP Attacks](https://youtu.be/aEHL0QrV0SE)
-- [AD Setup and Management]()
+- [AD Setup and Management](https://youtu.be/IyVqMel7Tew)
 - [Running Scans with Qualys](https://youtu.be/djA4Jtptxqs)
+- [Creating a File Integrity Monitor (Coming Soon)]()
 
 <h2> 🌐 Connect with me:</h2>
 
