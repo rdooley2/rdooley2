@@ -11,7 +11,7 @@
 - <b>Vulnerability Management:</b>
   - [Running Scans with Qualys](https://github.com/rdooley2/Vulnerability-Lab/blob/main/README.md)
 
-- <b>Scripting (Coming Soon):</b>
+- <b>Scripting:</b>
   - [Creating a File Integrity Monitor](https://github.com/rdooley2/Scripting-Lab/blob/main/README.md)
 
 <h2>📝 Cybersecurity Certifications:</h2>
@@ -30,7 +30,7 @@
 - [Mapping RDP Attacks](https://youtu.be/aEHL0QrV0SE)
 - [AD Setup and Management](https://youtu.be/IyVqMel7Tew)
 - [Running Scans with Qualys](https://youtu.be/djA4Jtptxqs)
-- [Creating a File Integrity Monitor (Coming Soon)]()
+- [Creating a File Integrity Monitor]()
 
 <h2> 🌐 Connect with me:</h2>
 
