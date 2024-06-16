@@ -34,8 +34,10 @@
 
 <h2> 🌐 Connect with me:</h2>
 
-[<img align="left" alt="RyanDooley | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="RyanDooley | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Ryan Dooley | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Ryan Dooley | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Ryan Dooley | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail]
 
 [youtube]: https://www.youtube.com/channel/UCvA8TGpgz0JO2IuerGv_vQw
-[linkedin]: https://www.linkedin.com/in/ryan-dooley-69bb13224/
+[linkedin]: https://www.linkedin.com/in/ryan-dooley-69bb13224
+[gmail]: https://mail.google.com/mail/?view=cm&fs=1&to=rdooley2025@gmail.com
