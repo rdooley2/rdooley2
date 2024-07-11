@@ -22,7 +22,7 @@
 - <b>SOC Training:</b>
   - [SOC Level 1](https://github.com/rdooley2/SOC-Level-1/blob/main/README.md)
 
-- <b>CompTIA Security+ (Coming Soon):</b>
+- <b>CompTIA Security+:</b>
   - [Security+](https://github.com/rdooley2/Security-Plus/blob/main/README.md)
  
 <h2>📺 Youtube Demonstrations:</h2>
