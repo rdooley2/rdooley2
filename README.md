@@ -15,7 +15,7 @@
   - [Creating a File Integrity Monitor](https://github.com/rdooley2/Scripting-Lab/blob/main/README.md)
   
 - <b>Malware:</b>
-  - [Creating a Keylogger(Work in Progress)](https://github.com/rdooley2/Keylogger-Lab/blob/main/README.md)
+  - [Developing a Keylogger (Work in Progress)](https://github.com/rdooley2/Keylogger-Lab/blob/main/README.md)
 
 <h2>📝 Cybersecurity Certifications:</h2>
 
