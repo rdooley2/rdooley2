@@ -34,7 +34,7 @@
 - [AD Setup and Management](https://youtu.be/IyVqMel7Tew)
 - [Running Scans with Qualys](https://youtu.be/djA4Jtptxqs)
 - [Creating a File Integrity Monitor](https://youtu.be/pJ97mlLQcUc)
-- [Developing a Keylogger]()
+- [Developing a Keylogger](https://youtu.be/PfVNaCxI9eE)
 
 <h2> 🌐 Connect with me:</h2>
 
