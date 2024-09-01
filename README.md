@@ -24,6 +24,9 @@
   
 - <b>SOC Training:</b>
   - [SOC Level 1](https://github.com/rdooley2/SOC-Level-1/blob/main/README.md)
+ 
+- <b>Threat Defense Training:</b>
+  - [Cyber Defense](https://github.com/rdooley2/Cyber-Defense/blob/main/README.md)
 
 - <b>CompTIA Security+:</b>
   - [Security+](https://github.com/rdooley2/Security-Plus/blob/main/README.md)
