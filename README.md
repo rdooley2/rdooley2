@@ -16,6 +16,13 @@
   
 - <b>Malware:</b>
   - [Developing a Keylogger](https://github.com/rdooley2/Keylogger-Lab/blob/main/README.md)
+ 
+- <b>Forensics:</b>
+  - [Coming Soon]()
+ 
+- <b>Network:</b>
+  - [Coming Soon]()
+  
 
 <h2>📝 Cybersecurity Certifications:</h2>
 
