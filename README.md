@@ -20,7 +20,7 @@
 - <b>Forensics:</b>
   - [Coming Soon]()
  
-- <b>Network:</b>
+- <b>Networking:</b>
   - [Coming Soon]()
   
 
