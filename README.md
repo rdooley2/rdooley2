@@ -5,7 +5,7 @@
 - <b>Home Lab Network Deployment</b>
   - Designed and deployed a simulated enterprise network featuring Active Directory, firewall, XDR, IDS/IPS, file server, file integrity monitoring, and client systems
   - Simulated attacks were used to test detection capabilities
-  - [Full Home Lab Report](https://github.com/rdooley2/AD-Lab/blob/main/README.md)
+  - [Full Home Lab Report]()
 
 - <b>SIEM Log Analysis with Microsoft Azure</b>
   - Mapped and analyzed failed RDP attacks using Azure Sentinel
