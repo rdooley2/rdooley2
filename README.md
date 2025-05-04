@@ -1,6 +1,5 @@
 <h1 align="center">Hi, I'm Ryan! <br/> Aspiring SOC Analyst and UNC Charlotte Student Graduate<br/></h1>
 
-<br>
 <h2>🔐 Personal Projects </h2>
 
 - <b>Home Lab Network Deployment</b>
