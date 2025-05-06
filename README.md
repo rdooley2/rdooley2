@@ -3,8 +3,8 @@
 <h2>🔐 Personal Projects </h2>
 
 - <b>SIEM Log Analysis with Microsoft Azure</b>
-  - Mapped and analyzed failed RDP attacks using Azure Sentinel
-  - Built KQL queries, created detection rules, configured alerting logic, and automated incident alerts
+  - Mapped and analyzed failed RDP attacks using Microsoft Sentinel
+  - Built KQL queries, configured alerting logic, and automated incident alert responses
   - [Full SIEM Report](https://github.com/rdooley2/SIEM-Lab/blob/main/README.md)
  
 - <b>Vulnerability Assessment using Qualys Cloud Agent</b>
@@ -23,7 +23,7 @@
 <h2>📝 Certifications </h2>
 
 - <b>CompTIA Security+:</b>
-  - Demonstrates knowledge of core security functions, including threats, vulnerabilities, mitigations, security architecture, operations, program management, and oversight
+  - Demonstrated knowledge of core security functions, including threats, vulnerabilities, mitigations, security architecture, operations, program management, and oversight
   - [Full Certification Report](https://github.com/rdooley2/Security-Plus/blob/main/README.md)
 
 <br>
