@@ -22,7 +22,7 @@
 <br>
 <h2>📝 Certifications </h2>
 
-- <b>CompTIA Security+:</b>
+- <b>CompTIA Security+</b>
   - Demonstrated knowledge of core security functions, including threats, vulnerabilities, mitigations, security architecture, operations, program management, and oversight
   - [Full Certification Report](https://github.com/rdooley2/Security-Plus/blob/main/README.md)
 
