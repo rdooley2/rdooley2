@@ -2,18 +2,13 @@
 
 <h2>🔐 Personal Projects </h2>
 
-- <b>Home Lab Network Deployment</b>
-  - Designed and deployed a simulated enterprise network featuring Active Directory, firewall, XDR, IDS/IPS, file server, file integrity monitoring, and client systems
-  - Simulated attacks were used to test detection capabilities
-  - [Full Home Lab Report]()
-
 - <b>SIEM Log Analysis with Microsoft Azure</b>
   - Mapped and analyzed failed RDP attacks using Azure Sentinel
   - Built KQL queries, created detection rules, configured alerting logic, and automated incident alerts
   - [Full SIEM Report](https://github.com/rdooley2/SIEM-Lab/blob/main/README.md)
  
 - <b>Vulnerability Assessment using Qualys Cloud Agent</b>
-  - Installed the Qualys agent, scanned the host system, applied vulnerability remediations, and documented findings in a vulnerability management report
+  - Installed the Qualys Cloud Agent, scanned the host system, applied vulnerability remediations, and documented findings in a vulnerability management report
   - [Full Cloud Agent Report](https://github.com/rdooley2/Vulnerability-Lab/blob/main/README.md)
 
 - <b>Custom File Integrity Monitoring Script</b>
