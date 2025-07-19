@@ -2,6 +2,13 @@
 
 <h2>🔐 Personal Projects </h2>
 
+- <b>Virtual Homelab</b>
+  - Developed a personal homelab in Vultr from scratch
+  - Installed and configured Active Directory, Splunk, Wazuh, and Suricata on different Virtual Machines
+  - Automated alerts using Shuffle and Slack
+  - Configured a Splunk Dashboard to show off alert data
+  - [Full Homelab Report](https://github.com/rdooley2/Homelab/blob/main/README.md)
+
 - <b>SIEM Log Analysis with Microsoft Azure</b>
   - Mapped and analyzed failed RDP attacks using Microsoft Sentinel
   - Built KQL queries, configured alerting logic, and automated incident alert responses
@@ -12,7 +19,7 @@
   - [Full Cloud Agent Report](https://github.com/rdooley2/Vulnerability-Lab/blob/main/README.md)
 
 - <b>Custom File Integrity Monitoring Script</b>
-  - Built a Python-based monitoring tool to watch file paths for unauthorized changes and generate alerts when tampering occurred
+  - Built a Python-based monitoring tool to watch file paths for unauthorized changes and generate alerts when tampering occurs
   - [Full FIM Report](https://github.com/rdooley2/Scripting-Lab/blob/main/README.md)
 
 - <b>Keylogger Development in Python using VSCode</b>
