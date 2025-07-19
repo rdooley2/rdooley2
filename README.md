@@ -2,7 +2,7 @@
 
 <h2>🔐 Personal Projects </h2>
 
-- <b>Virtual Homelab</b>
+- <b>Virtual Homelab with Vultr</b>
   - Developed a personal homelab in Vultr from scratch
   - Installed and configured Active Directory, Splunk, Wazuh, and Suricata on different Virtual Machines
   - Automated alerts using Shuffle and Slack
